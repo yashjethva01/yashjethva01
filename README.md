@@ -52,7 +52,7 @@
 - 💻 MERN Stack & Next.js Developer interested in Backend Engineering and Scalable Systems
 - 🌱 Currently learning **DevOps, Cloud Technologies, System Design and AI/ML**
 - 🧠 Practicing **DSA** and building real-world full stack applications
-- 📫 Reach me at: **jethva2809@gmail.com**
+- 📫 Reach me at: **jethvayash2809@gmail.com**
 
 <br clear="right"/>
 
